@@ -1,3 +1,5 @@
 assets/train/
 assets/test/
 csiro-biomass.zip
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
